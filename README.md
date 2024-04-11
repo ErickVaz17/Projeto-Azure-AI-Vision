@@ -43,3 +43,5 @@ Para fazer esses testes e experimentos, utilizei como referência as aulas e a d
 
 [Ler Textos no Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
 
+[Analise imagens no Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
+
