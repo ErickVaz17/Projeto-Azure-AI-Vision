@@ -19,12 +19,12 @@ Segue alguns prints do Vision detectando rostos.
 
 <div align="left">
   <img src="https://github.com/ErickVaz17/Projeto-Azure-AI-Vision/assets/92129564/5aea03da-c17e-4ea3-a0d7-b90ebe62de9f.png" width="700px"/>
-  <p>Posso citar o mesmo exemplo de cima, queria testar com um boneco com traços humano e me surpreendeu por reconhecer.</p>
+  <p>Posso citar o mesmo exemplo de cima, queria testar com um personagem de um jogo com traços humano e me surpreendeu por reconhecer.</p>
 </div>
 
 <div align="right">
   <img src="https://github.com/ErickVaz17/Projeto-Azure-AI-Vision/assets/92129564/846dac96-b557-41fb-8927-f8eeb00db1d4.png" width="700px"/>
-  <p>Nesse exemplo so gostaria de citar que mesmo de lado, ele consegue reconhecer as caracteristicas facias das pessoas.</p>
+  <p>Nesse exemplo so gostaria de citar que mesmo de lado, ele consegue reconhecer as caracteristicas faciais das pessoas.</p>
 </div>
 
 
